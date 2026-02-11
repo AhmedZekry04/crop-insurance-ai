@@ -188,6 +188,3 @@ Flare's enshrined data protocols (FTSO, FDC) are a natural fit for parametric in
 - **Advanced ML:** Add LSTM time-series forecasting for early warning predictions
 - **FAssets:** Enable cross-chain premium payments (BTC, XRP, DOGE)
 
-## License
-
-MIT
